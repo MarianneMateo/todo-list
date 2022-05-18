@@ -20,7 +20,7 @@
 
 	-webkit-animation: bounce 0.3s ease infinite alternate;
 
-  font-family: 'Alfa Slab One', cursive;
+	font-family: 'Alfa Slab One', cursive;
 	font-size: 80px;
 	color: #114e95;
 	text-align: center;
@@ -29,7 +29,7 @@
 		0 5px 0 #ccc, 0 6px 0 transparent, 0 7px 0 transparent, 0 8px 0 transparent,
 		0 9px 0 transparent, 0 10px 10px rgba(0, 0, 0, 0.6);
 }
-/* ANIMATION */
+
 @-webkit-keyframes bounce {
 	100% {
 		top: -30px;
@@ -61,7 +61,7 @@ button {
 }
 
 .buttonCreate {
-  font-weight: bold;
+	font-weight: bold;
 	border: none;
 	border-radius: 3px;
 	background-color: #0e8feb;
@@ -78,8 +78,8 @@ button {
 
 .todo {
 	padding: 10px;
-/* 	background-color: #f0bcc4; */
-  border-radius: 5px;
+	/* 	background-color: #f0bcc4; */
+	border-radius: 5px;
 }
 
 .todoTitle {
@@ -96,7 +96,7 @@ button {
 .buttonUpdate {
 	border: none;
 	border-radius: 3px;
-	background-color: #2E933C;
+	background-color: #2e933c;
 	color: white;
 	padding: 10px 20px;
 }
@@ -112,7 +112,7 @@ button {
 .buttonDelete {
 	border: none;
 	border-radius: 3px;
-	background-color: #DB162F;
+	background-color: #db162f;
 	color: white;
 	padding: 10px 20px;
 }
